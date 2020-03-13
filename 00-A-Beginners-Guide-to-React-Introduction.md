@@ -16,7 +16,8 @@
   - browsersync automatically reloads any changes made to the code.
   - More info on [browsersync](https://github.com/wesbos/browser-sync-remote-example)
 
-- Recommned setup:
+
+## Recommended setup
 
 ![img](/images/setup.png)
 
