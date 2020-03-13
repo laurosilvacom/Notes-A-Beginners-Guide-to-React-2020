@@ -28,4 +28,4 @@
 
 ## Additional resource
 
-- Check out Kent's [Uses Page](https://kentcdodds.com/uses/) to find more information about hit setup/vscode config.
+- Check out Kent's [Uses Page](https://kentcdodds.com/uses/) to find more information about his setup/vscode config.
