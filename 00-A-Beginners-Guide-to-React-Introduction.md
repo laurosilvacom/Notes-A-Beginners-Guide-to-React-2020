@@ -13,7 +13,7 @@
 - Copy and past the `start` script in a terminal window to locally serve all the files. Access the files in `localhost:3000`.
   - `npx browser-sync start --server --files "./*.html" --no-open --no-notify --directory`
   - `npx` comes bundled with Node.js
-  - browsersync automatlly reloads any changes made to the code.
+  - browsersync automatically reloads any changes made to the code.
   - More info on [browsersync](https://github.com/wesbos/browser-sync-remote-example)
 
 - Recommned setup:
