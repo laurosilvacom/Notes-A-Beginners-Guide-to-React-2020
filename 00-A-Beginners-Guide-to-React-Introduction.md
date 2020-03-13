@@ -28,4 +28,4 @@
 
 ## Additional resource
 
-- Check out Kent's [Uses Page](https://kentcdodds.com/uses/) to find more information about his setup/vscode config.
+- Check out Kent's [Uses Page](https://kentcdodds.com/uses/) to learn more about his setup.
