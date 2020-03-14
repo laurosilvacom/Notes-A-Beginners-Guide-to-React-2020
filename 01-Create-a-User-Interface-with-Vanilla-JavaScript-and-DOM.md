@@ -4,9 +4,11 @@
 
 #### [CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/01-document-create-element?from-embed)
 
-To create a user interface with JavaScript you will need a place to append your JavaScript DOM (Document Object Model) elements. This will be the `root` of our application.
+- To create a user interface with JavaScript you will need a place to append your JavaScript DOM (Document Object Model) elements. This will be the `root` of our application.
+- Get access to that element using the document's API. 
+- We create our element and add properties to it. 
+- Finally, appended it to the DOM element. 
 
-Finally, we get access to the DOM elements using the browser APIs.
 
 ```html
 <body>
