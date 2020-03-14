@@ -1,8 +1,8 @@
 # A Beginners Guide to React Introduction
 
-## [Video]()
+#### [Video]()
 
-## [CodeSandbox](https://egghead.io/lessons/react-v2-00-a-beginners-guide-to-react-introduction?pl=a-beginners-guide-to-react-v2-6c4d)
+#### [CodeSandbox](https://egghead.io/lessons/react-v2-00-a-beginners-guide-to-react-introduction?pl=a-beginners-guide-to-react-v2-6c4d)
 
 - No requirements needed when taking this course.
 - Recommend that you watch all of these videos through once without touching the keyboard. Just take notes.
