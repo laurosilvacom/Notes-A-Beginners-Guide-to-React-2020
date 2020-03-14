@@ -1,8 +1,8 @@
 # Create a User Interface with React’s createElement API
 
-## [Video]()
+#### [Video]()
 
-## [CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/02-react-create-element?from-embed)
+#### [CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/02-react-create-element?from-embed)
 
 - React uses the same APIs to control and update the DOM that we did in the previous lesson.
 - Instead of creating DOM elements, we’ll create React elements and then hand those off to `react-dom` to handle turning those into DOM elements and putting them into the page.
