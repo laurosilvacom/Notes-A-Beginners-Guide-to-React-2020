@@ -11,7 +11,7 @@ Get `react` and `react-dom` from unpkg.com, using a fixed version:
 
 And add a `script` tag to the page:
 
-```
+```html
 <script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
 <script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
 ```
