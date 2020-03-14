@@ -2,7 +2,8 @@
 
 - React uses the same APIs to control and update the DOM that we did in the previous lesson.
 - Instead of creating DOM elements, we’ll create React elements and then hand those off to `react-dom` to handle turning those into DOM elements and putting them into the page.
-- If you’ve ever learned or used React before, you’re probably more familiar with JSX than React’s `createElement` API, but it’s important to understand the `createElement` API first so you understand the magic.
+
+- ⚠️ If you’ve ever learned or used React before, you’re probably more familiar with JSX than React’s `createElement` API, but it’s important to understand the `createElement` API first so you understand the magic.
 
 Get `react` and `react-dom` from unpkg.com, using a fixed version:
 
