@@ -1,5 +1,9 @@
 # Create a User Interface with React’s createElement API
 
+## [Video]()
+
+## [CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/02-react-create-element?from-embed)
+
 - React uses the same APIs to control and update the DOM that we did in the previous lesson.
 - Instead of creating DOM elements, we’ll create React elements and then hand those off to `react-dom` to handle turning those into DOM elements and putting them into the page.
 - If you’ve ever learned or used React before, you’re probably more familiar with JSX than React’s `createElement` API, but it’s important to understand the `createElement` API first so you understand the magic.
@@ -41,3 +45,8 @@ And add a `script` tag to the page:
 - Now with `react` you can create `React.createElement` and use `react-dom` to render those elements to the page.
 - `React.createElement` API is as simple as the element that you want to create `<div>`, and then an object that has all of the props that you want to have applied, `className`, `children`.
 - Just as a convenience, you can provide the `children` with any number of arguments after the props argument as well.
+
+## Additional resource
+
+- [React Top-Level API](https://reactjs.org/docs/react-api.html)
+- [React Without JSX](https://reactjs.org/docs/react-without-jsx.html)

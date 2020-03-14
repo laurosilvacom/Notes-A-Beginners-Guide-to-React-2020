@@ -1,5 +1,9 @@
 # Create a User Interface with Vanilla JavaScript and DOM
 
+## [Video]()
+
+## [CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/01-document-create-element?from-embed)
+
 To create a user interface with JavaScript you will need a place to append your JavaScript DOM (Document Object Model) elements. This will be the `root` of our application.
 
 Finally, we get access to the DOM elements using the browser APIs.

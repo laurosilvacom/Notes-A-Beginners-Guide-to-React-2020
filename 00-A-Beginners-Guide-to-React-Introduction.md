@@ -1,5 +1,9 @@
 # A Beginners Guide to React Introduction
 
+## [Video]()
+
+## [CodeSandbox](https://egghead.io/lessons/react-v2-00-a-beginners-guide-to-react-introduction?pl=a-beginners-guide-to-react-v2-6c4d)
+
 - No requirements needed when taking this course.
 - Recommend that you watch all of these videos through once without touching the keyboard. Just take notes.
 - Then watch them a second time and follow along and change/break the code and review the bits that you need.
@@ -7,6 +11,7 @@
 ## Getting Started
 
 - Download or clone the source code:
+
   - [Course Repo](https://github.com/kentcdodds/beginners-guide-to-react/tree/egghead)
   - **⚠** switch to the egghead branch
 
@@ -15,7 +20,6 @@
   - `npx` comes bundled with Node.js
   - browsersync automatically reloads any changes made to the code.
   - More info on [browsersync](https://github.com/wesbos/browser-sync-remote-example)
-
 
 ## Recommended setup
 
