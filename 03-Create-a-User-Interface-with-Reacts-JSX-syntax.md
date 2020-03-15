@@ -6,7 +6,7 @@
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/03-jsx?from-embed)
 
-# Notes
+## Notes
 
 - React team came up with [JSX](https://reactjs.org/docs/introducing-jsx.html). It’s an extension to the JavaScript language to support syntax that looks similar to the HTML that you would write to create these DOM elements (there are a handful of differences).
 - JSX gives us an expressive syntax for representing our UI, without losing the benefits and powers of writing our UI in JavaScript.
