@@ -1,8 +1,6 @@
 # A Beginners Guide to React Introduction
 
-#### [Video]()
-
-#### [CodeSandbox](https://egghead.io/lessons/react-v2-00-a-beginners-guide-to-react-introduction?pl=a-beginners-guide-to-react-v2-6c4d)
+#### [Video]() - [CodeSandbox](https://egghead.io/lessons/react-v2-00-a-beginners-guide-to-react-introduction?pl=a-beginners-guide-to-react-v2-6c4d)
 
 ## Notes 
 
