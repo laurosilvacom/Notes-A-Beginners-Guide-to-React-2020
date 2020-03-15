@@ -10,12 +10,14 @@
 - Instead of creating DOM elements, we’ll create React elements and then hand those off to `react-dom` to handle turning those into DOM elements and putting them into the page.
 - If you’ve ever learned or used React before, you’re probably more familiar with JSX than React’s `createElement` API, but it’s important to understand the `createElement` API first so you understand the magic.
 
-Get `react` and `react-dom` from unpkg.com, using a fixed version:
+- Get `react` and `react-dom` from unpkg.com, using a fixed version:
 
-- [unpkg.com/react@16.7.0/umd/react.production.min.js](unpkg.com/react@16.7.0/umd/react.production.min.js)
-- [unpkg.com/react-dom@16.7.0/umd/react-dom.production.min.js]()
+```
+unpkg.com/react@16.7.0/umd/react.production.min.js
+unpkg.com/react-dom@16.7.0/umd/react-dom.production.min.js
+```
 
-And add a `script` tag to the page:
+- And add a `script` tag to the page:
 
 ```html
 <script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
