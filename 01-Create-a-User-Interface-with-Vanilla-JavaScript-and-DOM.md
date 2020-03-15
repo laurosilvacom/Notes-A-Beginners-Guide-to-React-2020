@@ -1,8 +1,8 @@
 # Create a User Interface with Vanilla JavaScript and DOM
 
-#### [Video]()
+#### [📹 Video]()
 
-#### [CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/01-document-create-element?from-embed)
+#### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/01-document-create-element?from-embed)
 
 
 ## Notes 
