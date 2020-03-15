@@ -7,7 +7,7 @@
 
 - No requirements needed when taking this course.
 - Recommend that you watch all of these videos through once without touching the keyboard. Just take notes. Then watch them a second time and follow along and change/break the code and review the bits that you need.
-- Download or clone the source code: [**Course Repo**](https://github.com/kentcdodds/beginners-guide-to-react/tree/egghead) **⚠️** switch to the egghead branch
+- Download or clone the source code: [**Course Repo**](https://github.com/kentcdodds/beginners-guide-to-react/tree/egghead) `**⚠️** switch to the egghead branch`
 
 
 - Copy and past the `start` script in a terminal window to locally serve all the files. Access the files in `localhost:3000`.
