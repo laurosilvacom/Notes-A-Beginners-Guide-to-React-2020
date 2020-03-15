@@ -11,6 +11,7 @@
 - Then watch them a second time and follow along and change/break the code and review the bits that you need.
 - Download or clone the source code: [**Course Repo**](https://github.com/kentcdodds/beginners-guide-to-react/tree/egghead) **⚠** switch to the egghead branch
 
+
 - Copy and past the `start` script in a terminal window to locally serve all the files. Access the files in `localhost:3000`.
   - `npx browser-sync start --server --files "./*.html" --no-open --no-notify --directory`
   - `npx` comes bundled with Node.js
@@ -19,13 +20,13 @@
 
 - Recommended setup:
 
-![img](/images/setup.png)
-
 ```
 - code editor opened
 - browsersync running
 - developer tools opened
 ```
+
+![img](/images/setup.png)
 
 ## Additional resource
 
