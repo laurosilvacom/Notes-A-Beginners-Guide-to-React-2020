@@ -1,8 +1,8 @@
 # Create a User Interface with React’s createElement API
 
-#### [Video]()
+#### [📹 Video]()
 
-#### [CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/02-react-create-element?from-embed)
+#### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/02-react-create-element?from-embed)
 
 ## Notes 
 
