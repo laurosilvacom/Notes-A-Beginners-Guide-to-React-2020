@@ -8,9 +8,7 @@
 
 - React team came up with JSX. It’s an extension to the JavaScript language to support syntax that looks similar to the HTML that you would write to create these DOM elements (there are a handful of differences).
 - JSX gives us an expressive syntax for representing our UI, without losing the benefits and powers of writing our UI in JavaScript.
-- The best way to take advantage of this is to learn how JSX is compiled to regular JavaScript calls
-
-- By default the browser does not compile JSX, it needs Babel to compile non-standard features, like JSX.
+- The best way to take advantage of this is to learn how JSX is compiled to regular JavaScript. By default the browser does not compile JSX, it needs [Babel](https://babeljs.io) to compile non-standard features, like JSX.
 
 ### Tip:
 
@@ -27,3 +25,7 @@
 ```
 
 This will add a new script with our new code compiled by Babel. In a production environment, it's not recommended that you use babel/standalone.
+
+## Additional resource
+- [What is Babel?](https://babeljs.io/docs/en/)
+- [Configure babel for React with preset-react](https://egghead.io/lessons/react-configure-babel-for-react-with-preset-react)
