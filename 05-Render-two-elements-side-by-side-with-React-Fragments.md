@@ -10,8 +10,7 @@
 - This may seem like an odd limitation, but when you think about the fact that JSX is compiled to `React.createElement` calls, it makes sense.
 - [React Fragments](https://reactjs.org/docs/fragments.html)) let you group a list of children without adding extra nodes to the DOM.
 
-- Using the React Fragments API:
-
+- Using the **React Fragments API**:
 ```html
 <body>
   <div id="root"></div>
@@ -34,7 +33,6 @@
 ```
 
 - You can also use a **React Fragments Element**:
-
 ```js
 const element = (
   <React.Fragment>
@@ -44,8 +42,7 @@ const element = (
 );
 ```
 
-- Since React Fragments is so common, JSX has a special syntax for it:
-
+- Since React Fragments is so common, JSX has a **special syntax** for it:
 ```js
 const element = (
   // open and closing angle brackets 
