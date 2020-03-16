@@ -16,8 +16,8 @@
   <script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
   <script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
   <script type="text/babel">
-    // rreating a function component, that accepts a props object and returns a React Element
-    // it passes JSX attributes and children to this component as a single object “props”.
+    // creating a function component, that accepts a props object and returns a React Element
+    // it passes JSX attributes and children to this component as a single object “props”
     function Message({ children }) {
       return <div className="message">{children}</div>;
     }
