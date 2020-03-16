@@ -1,4 +1,4 @@
-# Create a User Interface with Vanilla JavaScript and DOM
+# 01. Create a User Interface with Vanilla JavaScript and DOM
 
 ## Links
 
