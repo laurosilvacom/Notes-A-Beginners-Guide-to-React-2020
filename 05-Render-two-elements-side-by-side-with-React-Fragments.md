@@ -35,7 +35,7 @@
 </body>
 ```
 
-- You can also use a React Fragments Element:
+- You can also use a **React Fragments Element**:
 
 ```js
 const element = (
@@ -50,6 +50,7 @@ const element = (
 
 ```js
 const element = (
+  // open and closing angle brackets 
   <>
     <span>Hello</span>
     <span>World</span>
