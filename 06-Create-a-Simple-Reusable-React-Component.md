@@ -6,6 +6,46 @@
 
 ## Notes
 
-One of the biggest paradigm shifts that React offered to the UI ecosystem was the component model. It allows you to package up all the logic, styling, and layout of a unit of UI into a box that you can easily move around and reuse without exposing any of the implementation details of the component. You don’t have to understand how a component works internally to use it effectively. With idiomatic component architecture, rendering a component in one place won’t impact other parts of your app.
+- One of the biggest paradigm shifts that React offered to the UI ecosystem was the component model.
+- Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
+
+```html
+<body>
+  <div id="root"></div>
+  <script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
+  <script type="text/babel">
+    // rreating a function component, that accepts a props object and returns a React Element
+    // it passes JSX attributes and children to this component as a single object “props”.
+    function Message({ children }) {
+      return <div className="message">{children}</div>;
+    }
+
+    const element = (
+      <div className="container">
+        <Message>Hello World</Message>
+        <Message>Goodbye World</Message>
+      </div>
+    );
+
+    ReactDOM.render(element, document.getElementById('root'));
+  </script>
+</body>
+```
+
+- **Rendering** a Component:
+
+```js
+//  capitalized to ensure that babel passes the function rather than the string message
+const element = (
+  <div className="container">
+    <Message>Hello World</Message>
+    <Message>Goodbye World</Message>
+  </div>
+);
+```
 
 ## Additional resource
+
+- [React doc - Components and Props](https://reactjs.org/docs/components-and-props.html)
