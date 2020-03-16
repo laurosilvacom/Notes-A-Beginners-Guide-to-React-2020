@@ -42,7 +42,7 @@ const element = (
 );
 ```
 
-- Since React Fragments is so common, JSX has a special syntax for it:
+- Since React Fragments is so common, JSX has a **special syntax** for it:
 ```js
 const element = (
   // open and closing angle brackets 
