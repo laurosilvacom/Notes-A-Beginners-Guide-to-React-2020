@@ -1,7 +1,5 @@
 # 00. A Beginners Guide to React Introduction
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻Course Repo](https://github.com/kentcdodds/beginners-guide-to-react/tree/egghead)
