@@ -1,7 +1,5 @@
 # 16. Create reusable custom hooks
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/16-custom-hooks?from-embed)

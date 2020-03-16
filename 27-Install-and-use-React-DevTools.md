@@ -1,7 +1,5 @@
 # 27. Install and use React DevTools
 
-## Links
-
 #### [📹 Video]()
 
 ## Notes

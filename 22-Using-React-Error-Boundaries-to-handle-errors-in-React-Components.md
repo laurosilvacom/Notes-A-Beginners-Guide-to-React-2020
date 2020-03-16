@@ -1,7 +1,5 @@
 # 22. Using React Error Boundaries to handle errors in React Components
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/22-error-boundaries?from-embed)

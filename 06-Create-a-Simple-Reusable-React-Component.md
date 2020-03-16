@@ -1,7 +1,5 @@
 # 06. Create a Simple Reusable React Component
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/06-custom-component?from-embed)

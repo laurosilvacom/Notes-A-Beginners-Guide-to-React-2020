@@ -1,7 +1,5 @@
 # 14. Use a lazy initializer with useState
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/14-lazy-initialization?from-embed)

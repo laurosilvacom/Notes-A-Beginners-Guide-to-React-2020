@@ -1,7 +1,5 @@
 # 10. Style React Components with className and inline Styles
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/10-styling?from-embed)

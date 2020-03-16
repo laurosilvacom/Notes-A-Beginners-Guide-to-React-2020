@@ -1,7 +1,5 @@
 # 18 Understand the React Hook Flow
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/18-hook-flow?from-embed)

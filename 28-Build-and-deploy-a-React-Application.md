@@ -1,7 +1,5 @@
 # 28. Build and deploy a React Application
 
-## Links
-
 #### [📹 Video]()
 
 ## Notes

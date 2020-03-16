@@ -1,7 +1,5 @@
 # 15. Manage the useEffect dependency array
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/15-effect-deps?from-embed)

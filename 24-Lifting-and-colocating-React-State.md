@@ -1,7 +1,5 @@
 # 24. Lifting and colocating React State
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/24-lifting-and-colocating?from-embed)

@@ -1,7 +1,5 @@
 # 07. Validate Custom React Component Props with PropTypes
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/07-prop-types?from-embed)

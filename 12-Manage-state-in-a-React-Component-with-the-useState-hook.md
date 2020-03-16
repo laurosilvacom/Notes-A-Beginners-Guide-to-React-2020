@@ -1,7 +1,5 @@
 # 12. Manage state in a React Component with the useState hook
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/12-state?from-embed)

@@ -1,7 +1,5 @@
 # 13. Manage side-effects in a React Component with the useEffect hook
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/13-side-effects?from-embed)

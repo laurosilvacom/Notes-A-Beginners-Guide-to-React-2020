@@ -1,7 +1,5 @@
 # 17. Manipulate the DOM with React refs
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/17-dom-refs?from-embed)

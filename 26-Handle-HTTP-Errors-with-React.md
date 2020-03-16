@@ -1,7 +1,5 @@
 # 26. Handle HTTP Errors with React
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/26-http-errors?from-embed)

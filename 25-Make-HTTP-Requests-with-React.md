@@ -1,7 +1,5 @@
 # 25. Make HTTP Requests with React
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/25-http?from-embed)

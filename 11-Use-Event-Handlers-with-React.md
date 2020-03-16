@@ -1,7 +1,5 @@
 # 11. Use Event Handlers with React
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/11-event-handlers?from-embed)

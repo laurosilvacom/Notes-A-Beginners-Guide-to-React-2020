@@ -1,7 +1,5 @@
 # 09. Rerender a React Application
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/09-re-render?from-embed)
