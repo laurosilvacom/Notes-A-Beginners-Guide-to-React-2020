@@ -1,7 +1,5 @@
 # 05. Render two elements side-by-side with React Fragments
 
-## Links
-
 #### [📹 Video]()
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/05-fragements?from-embed)
