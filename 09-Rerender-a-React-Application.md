@@ -5,7 +5,7 @@
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/09-re-render?from-embed)
 
 ## Notes
-- Updating the DOM is typically the slowest part in the whole process. React only updates what’s mecessary.
+- Updating the DOM is typically the slowest part of the whole process. React only updates what’s necessary.
 - React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.
 - When we re-render the entire app with `setInterval` you can see the clock changes without a browser window refresh.
 
