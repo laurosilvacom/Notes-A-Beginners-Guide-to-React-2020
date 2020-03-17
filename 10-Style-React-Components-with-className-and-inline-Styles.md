@@ -6,7 +6,7 @@
 
 ## Notes
 
-- Application layout is only one part of the user interface equation. Another part is styling.
+- The application layout is only one part of the user interface equation. Another part is styling.
 
 ```html
 <body>
