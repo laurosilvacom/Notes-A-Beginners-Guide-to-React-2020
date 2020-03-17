@@ -5,9 +5,11 @@
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/09-re-render?from-embed)
 
 ## Notes
+- Updating the DOM is typically the slowest part in the whole process. React only updates what’s mecessary.
+- React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.
 
 - When we re-render the entire app with `setInterval` you can see the clock changes without a browser window refresh.
-- When we change the `di`v to an `input` element with time as a value and `focus` on the input element, we'll see that `focus` remains even after updating the app.
+- When we change the `div` to an `input` element with time as a value and `focus` on the input element, we'll see that `focus` remains even after updating the app.
 
 ```html
 <body>
@@ -16,9 +18,8 @@
   <script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
   <script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
   <script type="text/babel">
-    // Call ReactDOM.render on the same element so you get an understanding of what React is doing for you.
     const rootElement = document.getElementById('root');
-
+    
     function tick() {
       const time = new Date().toLocaleTimeString();
       const element = `
@@ -27,7 +28,6 @@
           <input valu="${time}" />
         </div>
       `
-
     rootElement.innerHTML = element
   </script>
 </body>
@@ -59,9 +59,6 @@
   </script>
 </body>
 ```
-
-- Updating the DOM is typically the slowest part in the whole process. React only updates what’s mecessary.
-- React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.
 - Even though we create an element describing the whole UI tree on every tick, only the text node whose contents have changed gets updated by React DOM.
 
 ## Additional resource
