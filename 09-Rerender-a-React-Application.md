@@ -6,6 +6,66 @@
 
 ## Notes
 
-- Applications aren’t really applications if they don’t change over time to represent changes in the application over time. Normally in React you’ll use state to manage this, but before we get to that, we’ll just call ReactDOM.render on the same element so you get an understanding of what React is doing for you. So we’ll learn how React deals with the new elements you give it, compare it to the previous elements, and make surgical updates to the DOM to give you the fastest and best user experience possible (because updating the DOM is typically the slowest part in the whole process).
+- When we re-render the entire app with `setInterval` you can see the clock changes without a browser window refresh.
+- When we change the `di`v to an `input` element with time as a value and `focus` on the input element, we'll see that `focus` remains even after updating the app.
+
+```html
+<body>
+  <div id="root"></div>
+  <script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
+  <script type="text/babel">
+    // Call ReactDOM.render on the same element so you get an understanding of what React is doing for you.
+    const rootElement = document.getElementById('root');
+
+    function tick() {
+      const time = new Date().toLocaleTimeString();
+      const element = `
+        <div>
+          <input valu="${time}" />
+          <input valu="${time}" />
+        </div>
+      `
+
+    rootElement.innerHTML = element
+  </script>
+</body>
+```
+
+- The `focus` remains on the selected element because React keeps track of it. React also keeps track of the actual changes within our app so even though we call `ReactDOM.render` every second, it will not refresh every element inside, just the `time` value.
+
+```html
+<body>
+  <div id="root"></div>
+  <script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
+  <script type="text/babel">
+    const rootElement = document.getElementById('root');
+
+    function tick() {
+      const time = new Date().toLocaleTimeString();
+      const element = (
+        <>
+          <input value={time} />
+          <input value={time} />
+        </>
+      );
+      ReactDOM.render(element, rootElement);
+    }
+
+    setInterval(tick, 1000);
+  </script>
+</body>
+```
+
+- Updating the DOM is typically the slowest part in the whole process. React only updates what’s mecessary.
+- React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.
+- Even though we create an element describing the whole UI tree on every tick, only the text node whose contents have changed gets updated by React DOM.
 
 ## Additional resource
+
+- [React Docs - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+- [https://reactjs.org/docs/react-dom.html](https://reactjs.org/docs/react-dom.html)
+- [kent's Blog - One simple trick to optimize React re-renders](https://kentcdodds.com/blog/optimize-react-re-renders/)
