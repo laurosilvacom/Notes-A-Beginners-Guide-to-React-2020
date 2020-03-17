@@ -8,7 +8,6 @@
 - Updating the DOM is typically the slowest part in the whole process. React only updates what’s mecessary.
 - React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.
 - When we re-render the entire app with `setInterval` you can see the clock changes without a browser window refresh.
-- When we change the `div` to an `input` element with time as a value and `focus` on the input element, we'll see that `focus` remains even after updating the app.
 
 ```html
 <body>
