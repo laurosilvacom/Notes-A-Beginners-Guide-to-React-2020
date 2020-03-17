@@ -61,6 +61,7 @@
 
 ## Additional resource
 
-- [React Docs - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
-- [https://reactjs.org/docs/react-dom.html](https://reactjs.org/docs/react-dom.html)
 - [kent's Blog - One simple trick to optimize React re-renders](https://kentcdodds.com/blog/optimize-react-re-renders/)
+- [React Docs - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+- [React Docs - ReactDOM](https://reactjs.org/docs/react-dom.html)
+
