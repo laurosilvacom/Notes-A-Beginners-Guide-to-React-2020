@@ -55,5 +55,5 @@
 
 ## Additional resource
 
-- [kent's Blog - How to implement useState with useReducer](https://kentcdodds.com/blog/how-to-implement-usestate-with-usereducer)
+- [Kent's Blog - How to implement useState with useReducer](https://kentcdodds.com/blog/how-to-implement-usestate-with-usereducer)
 - [React Docs - Effects Without Cleanup](https://reactjs.org/docs/hooks-effect.html#effects-without-cleanup)
