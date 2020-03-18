@@ -10,7 +10,7 @@
 
 - We need a place to put data that can change in our application, and we need to let React know when that state changes so it can update (or re-render) our app for us.
 
-- In React, state is associated to components and when the state changes, the component is updated.
+- In React, the state is associated with components and when the state changes, the component is updated.
 
 - To get access to this state and to update it, we use what is called a “React Hook” which allows us to call into React from within our component and let it know that we need to manage some state.
 
