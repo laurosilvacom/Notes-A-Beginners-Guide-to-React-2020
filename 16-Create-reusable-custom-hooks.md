@@ -1,6 +1,6 @@
 # 16. Create reusable custom hooks
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-16-create-reusable-custom-hooks?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/16-custom-hooks?from-embed)
 

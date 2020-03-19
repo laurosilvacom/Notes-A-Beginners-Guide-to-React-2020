@@ -1,6 +1,6 @@
 # 03. Create a User Interface with React’s JSX syntax
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-03-create-a-user-interface-with-react-s-jsx-syntax?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/03-jsx?from-embed)
 

@@ -1,6 +1,6 @@
 # 11. Use Event Handlers with React
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-11-use-event-handlers-with-react?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/11-event-handlers?from-embed)
 

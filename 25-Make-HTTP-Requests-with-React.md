@@ -1,6 +1,6 @@
 # 25. Make HTTP Requests with React
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-25-make-http-requests-with-react?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/25-http?from-embed)
 

@@ -1,6 +1,6 @@
 # 24. Lifting and colocating React State
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-24-lifting-and-colocating-react-state?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/24-lifting-and-colocating?from-embed)
 

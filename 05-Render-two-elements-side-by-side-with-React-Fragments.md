@@ -1,6 +1,6 @@
 # 05. Render two elements side-by-side with React Fragments
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-05-render-two-elements-side-by-side-with-react-fragments?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/05-fragements?from-embed)
 
@@ -11,6 +11,7 @@
 - [React Fragments](https://reactjs.org/docs/fragments.html) let you group a list of children without adding extra nodes to the DOM.
 
 - Using the **React Fragments API**:
+
 ```html
 <body>
   <div id="root"></div>
@@ -33,6 +34,7 @@
 ```
 
 - You can also use a **React Fragments Element**:
+
 ```js
 const element = (
   <React.Fragment>
@@ -43,9 +45,10 @@ const element = (
 ```
 
 - Since React Fragments is so common, JSX has a **special syntax** for it:
+
 ```js
 const element = (
-  // open and closing angle brackets 
+  // open and closing angle brackets
   <>
     <span>Hello</span>
     <span>World</span>

@@ -1,6 +1,6 @@
 # 21 Controlling Form Values with React
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-21-controlling-form-values-with-react?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/21-controlled-forms?from-embed)
 

@@ -1,6 +1,6 @@
 # 18 Understand the React Hook Flow
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-18-understand-the-react-hook-flow?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/18-hook-flow?from-embed)
 

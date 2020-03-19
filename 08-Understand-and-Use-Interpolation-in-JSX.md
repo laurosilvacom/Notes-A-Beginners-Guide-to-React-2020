@@ -1,6 +1,6 @@
 # 08. Understand and Use Interpolation in JSX
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-08-understand-and-use-interpolation-in-jsx?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/08-jsx-interpolation?from-embed)
 

@@ -1,6 +1,6 @@
 # 04. Use JSX effectively with React
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-04-use-jsx-effectively-with-react?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/04-jsx-tricks?from-embed)
 

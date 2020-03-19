@@ -1,6 +1,6 @@
 # 17. Manipulate the DOM with React refs
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-17-manipulate-the-dom-with-react-refs?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/17-dom-refs?from-embed)
 

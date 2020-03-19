@@ -1,6 +1,6 @@
 # 22. Using React Error Boundaries to handle errors in React Components
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-22-using-react-error-boundaries-to-handle-errors-in-react-components?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/22-error-boundaries?from-embed)
 

@@ -1,6 +1,6 @@
 # 12. Manage state in a React Component with the useState hook
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-12-manage-state-in-a-react-component-with-the-usestate-hook?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/12-state?from-embed)
 

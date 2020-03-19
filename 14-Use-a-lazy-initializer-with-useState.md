@@ -1,6 +1,6 @@
 # 14. Use a lazy initializer with useState
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-14-use-a-lazy-initializer-with-usestate?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/14-lazy-initialization?from-embed)
 

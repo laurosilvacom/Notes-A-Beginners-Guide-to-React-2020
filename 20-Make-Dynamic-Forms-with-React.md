@@ -1,6 +1,6 @@
 # 20. Make Dynamic Forms with React
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-20-make-dynamic-forms-with-react?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/20-dynamic-forms?from-embed)
 

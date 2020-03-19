@@ -1,6 +1,6 @@
 # 02. Create a User Interface with React’s createElement API
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-02-create-a-user-interface-with-react-s-createelement-api?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/02-react-create-element?from-embed)
 

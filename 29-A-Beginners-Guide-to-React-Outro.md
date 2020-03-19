@@ -1,6 +1,6 @@
 # 29. A Beginners Guide to React Outro
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/egghead-v2-29-a-beginners-guide-to-react-outro?pl=a-beginners-guide-to-react-v2-6c4d)
 
 ## Notes
 

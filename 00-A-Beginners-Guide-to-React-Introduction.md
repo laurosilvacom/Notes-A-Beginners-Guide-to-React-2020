@@ -1,6 +1,6 @@
 # 00. A Beginners Guide to React Introduction
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-00-a-beginners-guide-to-react-introduction?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻Course Repo](https://github.com/kentcdodds/beginners-guide-to-react/tree/egghead)
 

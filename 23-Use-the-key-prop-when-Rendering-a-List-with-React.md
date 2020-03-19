@@ -1,6 +1,6 @@
 # 23. Use the key prop when Rendering a List with React
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-23-use-the-key-prop-when-rendering-a-list-with-react?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/23-rendering-lists?from-embed)
 

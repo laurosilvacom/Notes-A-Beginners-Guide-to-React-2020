@@ -1,6 +1,6 @@
 # 19. Make Basic Forms with React
 
-#### [📹 Video]()
+#### [📹 Video](https://egghead.io/lessons/react-v2-19-make-basic-forms-with-react?pl=a-beginners-guide-to-react-v2-6c4d)
 
 #### [💻 CodeSandbox](https://codesandbox.io/s/github/kentcdodds/beginners-guide-to-react/tree/codesandbox/19-basic-forms?from-embed)
 
