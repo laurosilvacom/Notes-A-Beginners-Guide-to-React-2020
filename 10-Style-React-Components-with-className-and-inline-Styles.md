@@ -6,7 +6,7 @@
 
 ## Notes
 
-- The application layout is only one part of the user interface equation. Another part is styling.
+- The application layout is only one part of the user interface equation. Another part is **styling**.
 
 ```html
 <body>
@@ -82,7 +82,7 @@ const element = (
 );
 ```
 
-- The style property is wrapped in two sets of curly braces, one to interpolate JavaScript and the second to define the object.
+- The style property is wrapped in **two sets of curly braces**, one to interpolate JavaScript and the second to define the object.
 
 ```js
 function Box({ style, size, className = '', ...rest }) {
