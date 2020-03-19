@@ -9,8 +9,6 @@
 - Unfortunately, sometimes a server request fails and we need to display a helpful error message to the user.
 - We’ll handle a promise rejection so we can collect that error information, and we’ll also learn how we can best display manage the state of our request so we have a deterministic render method to ensure we always show the user the proper information based on the current state of our React component.
 
-- A common mistake people make is to create a state variable called `isLoading` and set that to true or false. Instead, we’ll be using a status variable which can be set to idle, pending, resolved, or rejected.
-
 ```html
 <body>
   <div id="root"></div>
@@ -19,6 +17,9 @@
   <script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
   <script type="text/babel">
     function PokemonInfo({ pokemonName }) {
+      // A common mistake people make is to create a state variable called `isLoading` and set that to true or false.
+      // Instead, we’ll be using a status variable which can be set to idle, pending, resolved, or rejected.
+
       // Adding state to Pokemos status
       const [status, setStatus] = React.useState('idle');
       const [pokemon, setPokemon] = React.useState(null);
