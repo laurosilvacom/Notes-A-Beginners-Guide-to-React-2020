@@ -87,7 +87,7 @@
       `;
 
       // The Fetch API is a web standard built into most modern browsers to let us make HTTP requests to the server.
-      //  Using the Fetch API starts with calling the fetch() function, which allows us to make HTTP requests with the standard HTTP verbs: GET, POST, PUT, PATCH and DELETE.
+      // Using the Fetch API starts with calling the fetch() function, which allows us to make HTTP requests with the standard HTTP verbs: GET, POST, PUT, PATCH and DELETE.
       // The fetch function returns a promise which resolves when the request completes.
       // Making fetch call is a side-effect, so we are going to use the useEffect Hook
       return window
