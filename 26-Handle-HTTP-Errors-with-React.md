@@ -125,8 +125,6 @@
 
 ## Additional resource
 
--
-
 - [ROBIN WIERUCH - How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
 - [Kent's Blog - How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
-- - [repo - react-error-boundary](https://github.com/bvaughn/react-error-boundary)
+- [repo - react-error-boundary](https://github.com/bvaughn/react-error-boundary)
