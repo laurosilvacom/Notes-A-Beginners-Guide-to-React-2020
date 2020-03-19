@@ -10,7 +10,7 @@
 
 - Considering how code reuse works in JavaScript in general, we can simply make a function, put our relevant code in that function, and then call it from the original location. That process works exactly the same with React hooks code, so let’s do that:
 
-- Original code:
+- **Original code**:
 
 ```js
 const [name, setName] = React.useState(
@@ -22,7 +22,7 @@ React.useEffect(() => {
 }, [name]);
 ```
 
-- Refactor code to a reusable custom hooks:
+- **Refactor code** to a reusable custom hooks:
 
 ```js
 //
